@@ -4,38 +4,42 @@ The `main.py` script serves as the entry point for the web scraping and bookmark
 
 ```
 .
-+-- main.py
-+-- main.md
-+-- unpackaged_script
-  +-- scrape.py
-+-- modules
-  +-- scraper
-    +-- add_bookmark
-|     +-- add_bookmark.py
-      +-- add_bookmark.md
-    +-- clean_address
-      +-- clean_address.py
-      +-- clean_address.md
-    +-- copy_bookmarks_to_scraped
-      +-- copy_bookmarks_to_scraped.py
-      +-- copy_bookmarks_to_scraped.md
-    +-- initialize_bookmarks
-      +-- initialize_bookmarks.py
-      +-- initialize_bookmarks.md
-    +-- scrape_data
-      +-- scrape_data.py
-      +-- scrape_data.md
-  +-- reports
-    (report modules/.md's here)
-+-- bookmarks
-  +-- bookmarks.txt
-  +-- bookmarks.md
-  +-- scraped
-    +-- scraped.txt
-    +-- scraped.md
-+-- data
-  +-- scrape.json
-  +-- scrape.md
++-- Python-Web-Scraper-Main
+  +-- env
+    +-- ...
+  +-- scrape
+    +-- main.py
+    +-- main.md
+    +-- unpackaged_script
+      +-- scrape.py
+    +-- modules
+      +-- scraper
+        +-- add_bookmark
+    |     +-- add_bookmark.py
+          +-- add_bookmark.md
+        +-- clean_address
+          +-- clean_address.py
+          +-- clean_address.md
+        +-- copy_bookmarks_to_scraped
+          +-- copy_bookmarks_to_scraped.py
+          +-- copy_bookmarks_to_scraped.md
+        +-- initialize_bookmarks
+          +-- initialize_bookmarks.py
+          +-- initialize_bookmarks.md
+        +-- scrape_data
+          +-- scrape_data.py
+          +-- scrape_data.md
+      +-- reports
+        (report modules/.md's here)
+    +-- bookmarks
+      +-- bookmarks.txt
+      +-- bookmarks.md
+      +-- scraped
+        +-- scraped.txt
+        +-- scraped.md
+    +-- data
+      +-- scrape.json
+      +-- scrape.md
 ```
 
 ## Modules
@@ -65,4 +69,8 @@ This is the main function of the script and serves as the entry point. It initia
 
 ## How to Use
 
-1. Run `main.py` to start the application.
+1. Open a command terminal
+2. Navigate to the project root directory (if cloned from GitHub, it will be "Python-Web-Scraper-Main")
+3. Activate the virtual environment with the command `\env\Scripts\activate`
+4. Navigate into the 'scrape' directory with the command `cd scrape`
+5. Run the script with the command `python main.py`
