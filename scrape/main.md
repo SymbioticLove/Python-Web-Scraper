@@ -3,39 +3,44 @@
 The `main.py` script serves as the entry point for the web scraping and bookmark management application, utilizing the Tkinter library to create a graphical user interface (GUI). This script is packaged with multiple modules that are structured as follows:
 
 ```
-.
-+-- main.py
-+-- main.md
-+-- unpackaged_script
-  +-- scrape.py
-+-- modules
-  +-- scraper
-    +-- add_bookmark
-|     +-- add_bookmark.py
-      +-- add_bookmark.md
-    +-- clean_address
-      +-- clean_address.py
-      +-- clean_address.md
-    +-- copy_bookmarks_to_scraped
-      +-- copy_bookmarks_to_scraped.py
-      +-- copy_bookmarks_to_scraped.md
-    +-- initialize_bookmarks
-      +-- initialize_bookmarks.py
-      +-- initialize_bookmarks.md
-    +-- scrape_data
-      +-- scrape_data.py
-      +-- scrape_data.md
-  +-- reports
-    (report modules/.md's here)
-+-- bookmarks
-  +-- bookmarks.txt
-  +-- bookmarks.md
-  +-- scraped
-    +-- scraped.txt
-    +-- scraped.md
-+-- data
-  +-- scrape.json
-  +-- scrape.md
++-- Python-Web-Scraper-Main
+  +-- env
+    +-- ...
+  +-- scrape
+    +-- main.py
+    +-- main.md
+    +-- README.md (same as main.md)
+    +-- requirements.txt
+    +-- unpackaged_script
+      +-- scrape.py
+    +-- modules
+      +-- scraper
+        +-- add_bookmark
+    |     +-- add_bookmark.py
+          +-- add_bookmark.md
+        +-- clean_address
+          +-- clean_address.py
+          +-- clean_address.md
+        +-- copy_bookmarks_to_scraped
+          +-- copy_bookmarks_to_scraped.py
+          +-- copy_bookmarks_to_scraped.md
+        +-- initialize_bookmarks
+          +-- initialize_bookmarks.py
+          +-- initialize_bookmarks.md
+        +-- scrape_data
+          +-- scrape_data.py
+          +-- scrape_data.md
+      +-- reports
+        (report modules/.md's here)
+    +-- bookmarks
+      +-- bookmarks.txt
+      +-- bookmarks.md
+      +-- scraped
+        +-- scraped.txt
+        +-- scraped.md
+    +-- data
+      +-- scrape.json
+      +-- scrape.md
 ```
 
 ## Modules
