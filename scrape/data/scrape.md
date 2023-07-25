@@ -24,7 +24,7 @@ Each entry in the `scrape.json` file represents a single scraped webpage and is 
 - **Address**: This is a string that holds the physical address of the business or individual.
 - **PhoneNumber**: This is a string that holds the contact phone number.
 - **BusinessName**: This is a string that holds the name of the business.
-- **ListingAddress**: This is a string that holds the listing address scraped from the webpage.
+- **ListingAddress**: This is a string that holds the listing address or location scraped from the webpage.
 - **DateStamp**: This is a string that represents the date and time when the webpage was scraped. The date format is "MM-DD-YYYY", and the time format is in 24-hour format.
 
 The `data` directory serves to consolidate all scraped data into a single location. This makes it easy to manage and access the data, whether it's for viewing, backup, or further analysis.
