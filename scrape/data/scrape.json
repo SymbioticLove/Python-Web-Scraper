@@ -1,0 +1,267 @@
+[
+    {
+        "Names": [
+            "Rachael Thompson",
+            "Perry Gabuzzi, CCIM"
+        ],
+        "Address": "2525 E Camelback Rd, Suite 210 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)513-5122",
+        "BusinessName": "Kidder Mathews",
+        "ListingAddress": "Osborn Medical Plaza",
+        "DateStamp": "07-25-2023, 14:44"
+    },
+    {
+        "Names": [
+            "Jessica Vercellino"
+        ],
+        "Address": "2980 E Northern Ave, Suite A Phoenix, AZ 85028",
+        "PhoneNumber": "(623)224-1786",
+        "BusinessName": "Mutual Property Advisors LLC",
+        "ListingAddress": "2980 E Northern Ave",
+        "DateStamp": "07-25-2023, 14:44"
+    },
+    {
+        "Names": [
+            "Stuart Milne, CCIM, SIOR",
+            "Rich Andrus, CCIM, SIOR"
+        ],
+        "Address": "1809 S Holbrook Ln, Suite 102 Tempe, AZ 85281",
+        "PhoneNumber": "(480)771-3637",
+        "BusinessName": "Menlo Group Commercial Real Estate",
+        "ListingAddress": "Paradise Valley Professional Campus",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Steve Berghoff",
+            "Stuart Milne, CCIM, SIOR"
+        ],
+        "Address": "1809 S Holbrook Ln, Suite 102 Tempe, AZ 85281",
+        "PhoneNumber": "(480)659-1777",
+        "BusinessName": "Menlo Group Commercial Real Estate",
+        "ListingAddress": "19th Ave Corner Offices",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Tom Kuffler"
+        ],
+        "Address": "8776 E Shea Blvd, Suite 106138 Scottsdale, AZ 85260",
+        "PhoneNumber": "(480)264-0668,101",
+        "BusinessName": "Civic Asset Management",
+        "ListingAddress": "SHEA PLAZA",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Michael Marsh",
+            "Matt Baniszewski"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5177",
+        "BusinessName": "Colliers",
+        "ListingAddress": "Camelwest Plaza",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Todd Noel",
+            "Michael Marsh",
+            "Matt Baniszewski"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5190",
+        "BusinessName": "Colliers",
+        "ListingAddress": "3020 E Camelback Rd",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Matthew Boeddeker"
+        ],
+        "Address": "420 E Carrillo St Santa Barbara, CA 93101",
+        "PhoneNumber": "(602)363-5872",
+        "BusinessName": "N/A",
+        "ListingAddress": "Bldg 6",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Ryan Timpani",
+            "Brett Thompson"
+        ],
+        "Address": "4300 E Camelback Rd, Suite 100 Phoenix, AZ 85018",
+        "PhoneNumber": "(602)282-6252",
+        "BusinessName": "JLL",
+        "ListingAddress": "200 EVB",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Rachael Thompson",
+            "Perry Gabuzzi, CCIM"
+        ],
+        "Address": "2525 E Camelback Rd, Suite 210 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)513-5122",
+        "BusinessName": "Kidder Mathews",
+        "ListingAddress": "Osborn Medical Plaza",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Kurt Nishimura"
+        ],
+        "Address": "31133157 E Lincoln Dr Phoenix, AZ 85016",
+        "PhoneNumber": "(602)513-9335",
+        "BusinessName": "Coldwell Banker Commercial",
+        "ListingAddress": "1429 N 1st St",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Tim Whittemore",
+            "Pat Schrimsher"
+        ],
+        "Address": "2555 E Camelback Rd, Suite 400 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)253-7900",
+        "BusinessName": "Cushman & Wakefield",
+        "ListingAddress": "U.S. Bank Center",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Jessica Vercellino"
+        ],
+        "Address": "2980 E Northern Ave, Suite A Phoenix, AZ 85028",
+        "PhoneNumber": "(623)224-1786",
+        "BusinessName": "Mutual Property Advisors LLC",
+        "ListingAddress": "2980 E Northern Ave",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Stuart Milne, CCIM, SIOR",
+            "Rich Andrus, CCIM, SIOR"
+        ],
+        "Address": "1809 S Holbrook Ln, Suite 102 Tempe, AZ 85281",
+        "PhoneNumber": "(480)771-3637",
+        "BusinessName": "Menlo Group Commercial Real Estate",
+        "ListingAddress": "Paradise Valley Professional Campus",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Steve Berghoff",
+            "Stuart Milne, CCIM, SIOR"
+        ],
+        "Address": "1809 S Holbrook Ln, Suite 102 Tempe, AZ 85281",
+        "PhoneNumber": "(480)659-1777",
+        "BusinessName": "Menlo Group Commercial Real Estate",
+        "ListingAddress": "19th Ave Corner Offices",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Tom Kuffler"
+        ],
+        "Address": "8776 E Shea Blvd, Suite 106138 Scottsdale, AZ 85260",
+        "PhoneNumber": "(480)264-0668,101",
+        "BusinessName": "Civic Asset Management",
+        "ListingAddress": "SHEA PLAZA",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Michael Marsh",
+            "Matt Baniszewski"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5177",
+        "BusinessName": "Colliers",
+        "ListingAddress": "Camelwest Plaza",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Todd Noel",
+            "Michael Marsh",
+            "Matt Baniszewski"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5190",
+        "BusinessName": "Colliers",
+        "ListingAddress": "3020 E Camelback Rd",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Matthew Boeddeker"
+        ],
+        "Address": "420 E Carrillo St Santa Barbara, CA 93101",
+        "PhoneNumber": "(602)363-5872",
+        "BusinessName": "N/A",
+        "ListingAddress": "Bldg 6",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Michael Dupuy"
+        ],
+        "Address": "2525 E Camelback Rd, Suite 210 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)513-5200",
+        "BusinessName": "Kidder Mathews",
+        "ListingAddress": "16611 S 40th St",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Michael Marsh",
+            "Matt Baniszewski"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5177",
+        "BusinessName": "Colliers",
+        "ListingAddress": "16241 N Tatum Blvd",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Natasha Alexander"
+        ],
+        "Address": "8530 N 22nd Ave Phoenix, AZ 85021",
+        "PhoneNumber": "(480)485-6713",
+        "BusinessName": "N/A",
+        "ListingAddress": "Sanctuary On 22nd",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Anthony Masiello"
+        ],
+        "Address": "14239 W Bell Rd, Suite 209 Surprise, AZ 85374",
+        "PhoneNumber": "(623)208-7978",
+        "BusinessName": "XCD Realty & Property Management",
+        "ListingAddress": "Rose Garden Center",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Randall Perry"
+        ],
+        "Address": "",
+        "PhoneNumber": "(623)237-9662",
+        "BusinessName": "N/A",
+        "ListingAddress": "1920 W Bell Rd",
+        "DateStamp": "07-25-2023, 14:45"
+    },
+    {
+        "Names": [
+            "Brian Kocour"
+        ],
+        "Address": "2505 E Lehi Rd, Suite 5 Mesa, AZ 85213",
+        "PhoneNumber": "(602)757-1319",
+        "BusinessName": "N/A",
+        "ListingAddress": "5213 N Central Ave",
+        "DateStamp": "07-25-2023, 14:45"
+    }
+]
