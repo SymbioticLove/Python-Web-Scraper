@@ -72,6 +72,6 @@ This is the main function of the script and serves as the entry point. It initia
 
 1. Open a command terminal
 2. Navigate to the project root directory (if cloned from GitHub and placed at your C: drive, you will use the command `cd c:\Python-Web-Scraper-Main`)
-3. Activate the virtual environment with the command `\env\Scripts\activate`
+3. Activate the virtual environment with the command `env\Scripts\activate`
 4. Navigate into the 'scrape' directory with the command `cd scrape`
 5. Run the script with the command `python main.py`
