@@ -4,43 +4,43 @@ The `main.py` script serves as the entry point for the web scraping and bookmark
 
 ```
 +-- Python-Web-Scraper-Main
-  +-- env
-    +-- ...
-  +-- README.md (same as main.md)
-  +-- requirements.txt
-  +-- scrape
-    +-- main.py
-    +-- main.md
-    +-- unpackaged_script
-      +-- scrape.py
-    +-- modules
-      +-- scraper
-        +-- add_bookmark
-    |     +-- add_bookmark.py
-          +-- add_bookmark.md
-        +-- clean_address
-          +-- clean_address.py
-          +-- clean_address.md
-        +-- copy_bookmarks_to_scraped
-          +-- copy_bookmarks_to_scraped.py
-          +-- copy_bookmarks_to_scraped.md
-        +-- initialize_bookmarks
-          +-- initialize_bookmarks.py
-          +-- initialize_bookmarks.md
-        +-- scrape_data
-          +-- scrape_data.py
-          +-- scrape_data.md
-      +-- reports
-        (report modules/.md's here)
-    +-- bookmarks
-      +-- bookmarks.txt
-      +-- bookmarks.md
-      +-- scraped
-        +-- scraped.txt
-        +-- scraped.md
-    +-- data
-      +-- scrape.json
-      +-- scrape.md
+| +-- env
+| | +-- ...
+| +-- README.md
+| +-- requirements.txt
+| +-- scrape
+| | +-- main.py
+| | +-- README.md
+| | +-- unpackaged_script
+| | | +-- scrape.py
+| | +-- modules
+| | | +-- scraper
+| | | | +-- add_bookmark
+| | | | | +-- add_bookmark.py
+| | | | | +-- README.md
+| | | | +-- clean_address
+| | | | | +-- clean_address.py
+| | | | | +-- README.md
+| | | | +-- copy_bookmarks_to_scraped
+| | | | | +-- copy_bookmarks_to_scraped.py
+| | | | | +-- README.md
+| | | | +-- initialize_bookmarks
+| | | | | +-- initialize_bookmarks.py
+| | | | | +-- README.md
+| | | | +-- scrape_data
+| | | | | +-- scrape_data.py
+| | | | | +-- README.md
+| | | +-- reports
+| | | | +-- (report modules/README's here)
+| | +-- bookmarks
+| | | +-- bookmarks.txt
+| | | +-- README.md
+| | | +-- scraped
+| | | | +-- scraped.txt
+| | | | +-- README.md
+| | +-- data
+| | | +-- scrape.json
+| | | +-- README.md
 ```
 
 ## Modules
