@@ -4,10 +4,10 @@ The `main.py` script serves as the entry point for the web scraping and bookmark
 
 ```
 +-- Python-Web-Scraper-Main
-| +-- env
-| | +-- ...
 | +-- README.md
 | +-- requirements.txt
+| +-- env
+| | +-- ...
 | +-- scrape
 | | +-- main.py
 | | +-- README.md
