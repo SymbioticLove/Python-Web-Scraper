@@ -16,7 +16,7 @@ The `main.py` script serves as the entry point for the web scraping and bookmark
     +-- modules
       +-- scraper
         +-- add_bookmark
-    |     +-- add_bookmark.py
+          +-- add_bookmark.py
           +-- add_bookmark.md
         +-- clean_address
           +-- clean_address.py
