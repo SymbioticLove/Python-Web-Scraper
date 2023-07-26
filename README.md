@@ -6,7 +6,7 @@ The `main.py` script serves as the entry point for the web scraping and bookmark
 +-- Python-Web-Scraper-Main
   +-- env
     +-- ...
-  +-- README.md (same as main.md)
+  +-- README.md
   +-- requirements.txt
   +-- scrape
     +-- main.py
