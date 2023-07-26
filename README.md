@@ -10,37 +10,37 @@ The `main.py` script serves as the entry point for the web scraping and bookmark
 | +-- requirements.txt
 | +-- scrape
 | | +-- main.py
-| | +-- main.md
+| | +-- README.md
 | | +-- unpackaged_script
 | | | +-- scrape.py
 | | +-- modules
 | | | +-- scraper
 | | | | +-- add_bookmark
 | | | | | +-- add_bookmark.py
-| | | | | +-- add_bookmark.md
+| | | | | +-- README.md
 | | | | +-- clean_address
 | | | | | +-- clean_address.py
-| | | | | +-- clean_address.md
+| | | | | +-- README.md
 | | | | +-- copy_bookmarks_to_scraped
 | | | | | +-- copy_bookmarks_to_scraped.py
-| | | | | +-- copy_bookmarks_to_scraped.md
+| | | | | +-- README.md
 | | | | +-- initialize_bookmarks
 | | | | | +-- initialize_bookmarks.py
-| | | | | +-- initialize_bookmarks.md
+| | | | | +-- README.md
 | | | | +-- scrape_data
 | | | | | +-- scrape_data.py
-| | | | | +-- scrape_data.md
+| | | | | +-- README.md
 | | | +-- reports
-| | | | +-- (report modules/.md's here)
+| | | | +-- (report modules/README's here)
 | | +-- bookmarks
 | | | +-- bookmarks.txt
-| | | +-- bookmarks.md
+| | | +-- README.md
 | | | +-- scraped
 | | | | +-- scraped.txt
-| | | | +-- scraped.md
+| | | | +-- README.md
 | | +-- data
 | | | +-- scrape.json
-| | | +-- scrape.md
+| | | +-- README.md
 ```
 
 ## Modules
