@@ -1,4 +1,4 @@
-# Main.py and Modules Documentation
+# Main.py and Module Documentation
 
 The `main.py` script serves as the entry point for the web scraping and bookmark management application, utilizing the Tkinter library to create a graphical user interface (GUI). This script is packaged with multiple modules and accompanying .md ReadMe files that are structured as follows:
 
