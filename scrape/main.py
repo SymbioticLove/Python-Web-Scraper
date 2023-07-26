@@ -40,7 +40,7 @@ def main():
     if not os.path.exists('./bookmarks/bookmarks.txt'):
         initialize_bookmarks_file()
 
-    url_entry = tk.Entry(root, width=40)  # Increase the width of the entry box
+    url_entry = tk.Entry(root, width=40)
     url_entry.pack(pady=10)
 
     add_button = tk.Button(root, text="Add Bookmark", command=lambda: add_bookmark(url_entry))
