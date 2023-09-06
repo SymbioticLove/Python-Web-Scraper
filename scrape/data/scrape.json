@@ -1,3 +1,241 @@
 [
-
+    {
+        "Names": [
+            "Rachael Thompson",
+            "Perry Gabuzzi, CCIM"
+        ],
+        "Address": "2525 E Camelback Rd, Suite 210 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)513-5122",
+        "BusinessName": "Kidder Mathews",
+        "ListingAddress": "Osborn Medical Plaza",
+        "DateStamp": "09-05-2023, 11:03"
+    },
+    {
+        "Names": [
+            "Stuart Milne, CCIM, SIOR",
+            "Rich Andrus, CCIM, SIOR"
+        ],
+        "Address": "1809 S Holbrook Ln, Suite 102 Tempe, AZ 85281",
+        "PhoneNumber": "(480)771-3637",
+        "BusinessName": "Menlo Group Commercial Real Estate",
+        "ListingAddress": "Paradise Valley Professional Campus",
+        "DateStamp": "09-05-2023, 11:03"
+    },
+    {
+        "Names": [
+            "Michael Marsh",
+            "Matt Baniszewski"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5177",
+        "BusinessName": "Colliers",
+        "ListingAddress": "Camelwest Plaza",
+        "DateStamp": "09-05-2023, 11:03"
+    },
+    {
+        "Names": [
+            "Todd Noel",
+            "Michael Marsh",
+            "Matt Baniszewski"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5190",
+        "BusinessName": "Colliers",
+        "ListingAddress": "3020 E Camelback Rd",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Matthew Boeddeker",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "420 E Carrillo St Santa Barbara, CA 93101",
+        "PhoneNumber": "(602)363-5872",
+        "BusinessName": "N/A",
+        "ListingAddress": "Bldg 6",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Ryan Timpani",
+            "Brett Thompson",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "4300 E Camelback Rd, Suite 100 Phoenix, AZ 85018",
+        "PhoneNumber": "(602)282-6252",
+        "BusinessName": "JLL",
+        "ListingAddress": "200 EVB",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Rachael Thompson",
+            "Perry Gabuzzi, CCIM",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "2525 E Camelback Rd, Suite 210 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)513-5122",
+        "BusinessName": "Kidder Mathews",
+        "ListingAddress": "Osborn Medical Plaza",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Kurt Nishimura",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "31133157 E Lincoln Dr Phoenix, AZ 85016",
+        "PhoneNumber": "(602)513-9335",
+        "BusinessName": "Coldwell Banker Commercial",
+        "ListingAddress": "1429 N 1st St",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Tim Whittemore",
+            "Pat Schrimsher",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "2555 E Camelback Rd, Suite 400 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)253-7900",
+        "BusinessName": "Cushman & Wakefield",
+        "ListingAddress": "U.S. Bank Center",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [],
+        "Address": "",
+        "PhoneNumber": "",
+        "BusinessName": "N/A",
+        "ListingAddress": "",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Stuart Milne, CCIM, SIOR",
+            "Rich Andrus, CCIM, SIOR",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "1809 S Holbrook Ln, Suite 102 Tempe, AZ 85281",
+        "PhoneNumber": "(480)771-3637",
+        "BusinessName": "Menlo Group Commercial Real Estate",
+        "ListingAddress": "Paradise Valley Professional Campus",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [],
+        "Address": "",
+        "PhoneNumber": "",
+        "BusinessName": "N/A",
+        "ListingAddress": "",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [],
+        "Address": "",
+        "PhoneNumber": "",
+        "BusinessName": "N/A",
+        "ListingAddress": "",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Michael Marsh",
+            "Matt Baniszewski",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5177",
+        "BusinessName": "Colliers",
+        "ListingAddress": "Camelwest Plaza",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Todd Noel",
+            "Michael Marsh",
+            "Matt Baniszewski",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5190",
+        "BusinessName": "Colliers",
+        "ListingAddress": "3020 E Camelback Rd",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Matthew Boeddeker",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "420 E Carrillo St Santa Barbara, CA 93101",
+        "PhoneNumber": "(602)363-5872",
+        "BusinessName": "N/A",
+        "ListingAddress": "Bldg 6",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [],
+        "Address": "",
+        "PhoneNumber": "",
+        "BusinessName": "N/A",
+        "ListingAddress": "",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Michael Marsh",
+            "Matt Baniszewski",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "2390 E Camelback Rd, Suite 100 Phoenix, AZ 85016",
+        "PhoneNumber": "(602)222-5177",
+        "BusinessName": "Colliers",
+        "ListingAddress": "16241 N Tatum Blvd",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Natasha Alexander",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "8530 N 22nd Ave Phoenix, AZ 85021",
+        "PhoneNumber": "(480)485-6713",
+        "BusinessName": "N/A",
+        "ListingAddress": "Sanctuary On 22nd",
+        "DateStamp": "09-05-2023, 11:04"
+    },
+    {
+        "Names": [
+            "Anthony Masiello",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "3377 S Price Rd, Suite 3031 Chandler, AZ 85248",
+        "PhoneNumber": "(623)208-7978",
+        "BusinessName": "XCD Realty & Property Management",
+        "ListingAddress": "Rose Garden Center",
+        "DateStamp": "09-05-2023, 11:05"
+    },
+    {
+        "Names": [
+            "Randall Perry",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "",
+        "PhoneNumber": "(623)237-9662",
+        "BusinessName": "N/A",
+        "ListingAddress": "1920 W Bell Rd",
+        "DateStamp": "09-05-2023, 11:05"
+    },
+    {
+        "Names": [
+            "Brian Kocour",
+            "Please enter your first name.\nFirst Name* Please enter your last name.\nLast Name*"
+        ],
+        "Address": "2505 E Lehi Rd, Suite 5 Mesa, AZ 85213",
+        "PhoneNumber": "(602)757-1319",
+        "BusinessName": "N/A",
+        "ListingAddress": "5213 N Central Ave",
+        "DateStamp": "09-05-2023, 11:05"
+    }
 ]
